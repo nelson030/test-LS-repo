@@ -9,3 +9,5 @@ Important steps for get workflow
 6. view previous changes with git log
 
 Added this line for ammending test.
+
+Added one more line for pull test
