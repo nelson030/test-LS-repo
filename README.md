@@ -8,3 +8,4 @@ Important steps for get workflow
 5. commit changes for version history with git commit
 6. view previous changes with git log
 
+Added this line for ammending test.
